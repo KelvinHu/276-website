@@ -1,0 +1,12 @@
+.header {
+    height: 20%;
+    width: 100%;
+    text-align: center;
+}
+
+.banner {
+    background-image: url('assets/Thomas\ Quine\ -\ Vancouver\ Clouds.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
